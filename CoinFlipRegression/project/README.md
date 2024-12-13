@@ -1,0 +1,2 @@
+# Coin Flip Regression
+The task for this weeks is to set up a project file structure on your local machine, work through building a simple model to predict the result of the next coin flip of all 100,000 coin flips in this dataset. This competition is designed to introduce you to the full data science workflow as well as some important ideas surrounding logistic regression, classification and later on, regularization.
